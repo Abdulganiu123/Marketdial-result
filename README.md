@@ -6,4 +6,4 @@ Below is the Curl command to populate the Database after the creation with the c
 
 Curl Command if executed outside of the container to populate the database
 
-curl -X POST "http://localhost:8000/add_store/" -H "Content-Type: application/json" -d '{"name": "test_store"}
+curl -X POST "http://localhost:8000/add_store/" -H "Content-Type: application/json" -d '{"name": "test_store"}'
