@@ -3,7 +3,6 @@ README.md
 .git
 Dockerfile
 .dockerignore
-secret.txt
 app-volume/
 docker-compose.yaml
 __pycache__
